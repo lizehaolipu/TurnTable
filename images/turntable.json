@@ -1,0 +1,44 @@
+{"frames": {
+
+"back1.png":
+{
+	"frame": {"x":0,"y":0,"w":882,"h":882},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":882,"h":882},
+	"sourceSize": {"w":882,"h":882}
+},
+"back2.png":
+{
+	"frame": {"x":882,"y":0,"w":882,"h":882},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":882,"h":882},
+	"sourceSize": {"w":882,"h":882}
+},
+"back3.png":
+{
+	"frame": {"x":0,"y":882,"w":882,"h":882},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":882,"h":882},
+	"sourceSize": {"w":882,"h":882}
+},
+"back4.png":
+{
+	"frame": {"x":882,"y":882,"w":882,"h":882},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":882,"h":882},
+	"sourceSize": {"w":882,"h":882}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "turntable.png",
+	"format": "RGBA8888",
+	"size": {"w":1764,"h":1764},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6153386db6d761cb355cf77481d23202:238f0cad0a9903eb20c7e1af79bd8d7f:1e890e0ca5d88e8aac57be1a1d054d37$"
+}
+}
